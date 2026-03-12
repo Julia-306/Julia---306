@@ -35,7 +35,6 @@
 </p>
 
 ## 🕵️‍♀️ About Me
-```python
 class QAEngineer:
     def __init__(self):
         self.name        = "Julia"
@@ -67,9 +66,6 @@ class QAEngineer:
 
     def when_tests_fail(self):
         return "As expected. Creating a detailed bug report. 😌"
-```
-
-
 ## 🛠️ My Arsenal
 
 <div align="center">
