@@ -67,6 +67,9 @@ class QAEngineer:
     def when_tests_fail(self):
         return "As expected. Creating a detailed bug report. 😌"
 
+
+me = QAEngineer()
+print(me.current_status())
   
 ## 🛠️ My Arsenal
 
