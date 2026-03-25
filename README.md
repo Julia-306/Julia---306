@@ -36,9 +36,9 @@
 
 ## 🕵️‍♀️ About Me
 
- class QAEngineer:
-    def __init__(self):
-        self.name        = "Julia"
+ class QAEngineer: <br>
+    def __init__(self): <br>
+        self.name        = "Julia" <br>
         self.role        = "QA Engineer 🔍"
         self.experience  = "9 years of finding bugs before they find you"
         self.languages   = ["Python 🐍", "JavaScript ⚡"]
